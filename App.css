@@ -1,0 +1,17 @@
+.bg-myBackground {
+  background-color: #a763a2;
+}
+
+.content {
+  padding: 12px;
+  height: 3000px;
+}
+
+ul {
+  list-style: none;
+}
+
+.fontstyle-1 {
+  font-family: "lora";
+  color: rgb(163, 143, 30);
+}
